@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Предисловие](README.md)
+* [Мой JavaScript код](README.md)
 * [Структура простого модуля](module-structure.md)
 * [От чего зависит функция](function-dependencies.md)
 
