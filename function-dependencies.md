@@ -1,10 +1,6 @@
 # От чего зависит функция
 
- Сравните два блока кода
-
-
-
-
+ Сравните этот блок кода:
 
 ```text
 const state = {
@@ -19,7 +15,7 @@ addItem(newItem)
 console.log(state) // { items: [ 1, 2, 3, 4 ] }
 ```
 
-// @TODO
+С блоком кода ниже:
 
 ```text
 const state = {
@@ -34,3 +30,4 @@ addItem(state, newItem)
 console.log(state) // { items: [ 1, 2, 3, 4 ] }
 ```
 
+// @TODO
