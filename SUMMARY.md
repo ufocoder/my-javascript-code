@@ -6,7 +6,7 @@
 ## Именование
 
 * [Почему это важно](imenovanie/why.md)
-* [Основные принципы](imenovanie/osnovnye-principy.md)
+* [Основные принципы](imenovanie/principles.md)
 * [Именование сущностей](imenovanie/entities.md)
 * [Именование функций](imenovanie/functions.md)
 * [Именование модулей](imenovanie/imenovanie-modulei.md)
