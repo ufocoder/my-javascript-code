@@ -6,10 +6,11 @@
 ## Именование
 
 * [Почему это важно?](naming/why.md)
-* [Пять принципов именования](naming/5-naming-principles.md)
+* [Принципы именования](naming/naming-principles.md)
 * [Именование сущностей](naming/entities.md)
 * [Именование функций](naming/functions.md)
-* [Именование модулей](naming/imenovanie-modulei.md)
+* [Именование аргументов](naming/arguments.md)
+* [Именование модулей](naming/modules.md)
 
 ## Зависимости
 
