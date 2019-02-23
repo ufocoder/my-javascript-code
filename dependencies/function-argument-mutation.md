@@ -2,7 +2,7 @@
 
 С этим блоком:
 
-```text
+```javascript
 const items = [1, 2, 3]
 
 const addItem = (items, item) => items.push(item)
@@ -15,7 +15,7 @@ console.log(items) // { items: [ 1, 2, 3, 4 ] }
 
 А также с этим блоком:
 
-```text
+```javascript
 const items = [1, 2, 3]
 
 const addItem = (items, item) => {

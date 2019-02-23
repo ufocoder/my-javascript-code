@@ -5,9 +5,11 @@
 
 ## Именование
 
-* [Принцип единообразия](imenovanie/uniformity.md)
+* [Почему это важно](imenovanie/why.md)
+* [Основные принципы](imenovanie/osnovnye-principy.md)
 * [Именование сущностей](imenovanie/entities.md)
 * [Именование функций](imenovanie/functions.md)
+* [Именование модулей](imenovanie/imenovanie-modulei.md)
 
 ## Зависимости
 
